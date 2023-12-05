@@ -1,0 +1,21 @@
+You need to have Python downloaded onto your PC in order to run this game.
+
+If you came here from Maeve's Academy, you most likely have it already.
+
+The version used is Python 3.11.
+
+You can download Python here: https://www.python.org/downloads/
+
+Once you download Python, you can either run the "CombatSystemPrototype" Python file directly, or use an IDE to access the code and see what it has.
+
+You have to type in the NUMBER or EXACT NAME of the action. All-caps applies. If you don't, the game dies. I kept it like this because I wasn't going to remake my "check if they gave a proper input" checker again. Just type it exactly, plz.
+
+Most of the code is documented. Feel free to use anything here.
+
+If anything breaks, kindly tell @apophis_florp on Discord.
+
+Out of all my passion projects for MA, I think this is the one I found the most fun. This is, like, my third combat system. Sadly, they're all command line projects, so, lol.
+
+Thanks again!
+
+~~ Apophis da Florp
